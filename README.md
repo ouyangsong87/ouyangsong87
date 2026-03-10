@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### :mailbox: 如何联系我:
 
--   GitHub: [swcyo](https://github.com/swcyo) (不关注一下吗?:eyes:)
+-   GitHub: [swcyo](https://github.com/ouyangsong87) (不关注一下吗?)
 -   E-mail: [ouyangsong@shzu.edu.cn](mailto:ouyangsong@shzu.edu.cn)
 
 <!-- Links -->
